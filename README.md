@@ -4,6 +4,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/istio/istio)](https://goreportcard.com/report/github.com/istio/istio)
 [![GoDoc](https://godoc.org/github.com/istio/istio?status.svg)](https://godoc.org/github.com/istio/istio)
 [![codecov.io](https://codecov.io/github/istio/istio/coverage.svg?branch=master)](https://codecov.io/github/istio/istio?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frshriram%2Fistio.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frshriram%2Fistio?ref=badge_shield)
 
 An open platform to connect, manage, and secure microservices.
 
@@ -121,3 +122,7 @@ support is disabled for our organization.
 
 There are several [communication channels](https://istio.io/community/) available to get
 support for Istio or to participate in its evolution.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frshriram%2Fistio.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frshriram%2Fistio?ref=badge_large)
